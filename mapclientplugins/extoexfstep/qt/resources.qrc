@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="extoexfstep">
+    <file>images/utility.png</file>
+  </qresource>
+</RCC>
